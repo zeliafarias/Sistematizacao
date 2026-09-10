@@ -1,3 +1,6 @@
+Participante: Zelia Farias
+Matricula: RA/DRT: 72650630
+
 A Sistematização na computação, especialmente quando aplicada à estatística e à matemática, serve para organizar, padronizar e estruturar dados e teorias complexas em algoritmos lógicos e eficientes.
 Sem essa organização, seria impossível transformar fórmulas matemáticas abstratas ou volumes massivos de dados em softwares que funcionam de verdade.
 Principais funções da sistematização
@@ -11,3 +14,4 @@ Aplicações práticas
 3.	Criptografia e Segurança: Aplica estruturas da matemática pura (como a teoria dos números) de forma ordenada para criar chaves de segurança invioláveis.
 4.	Simulações e Computação Gráfica: Sistematiza a geometria analítica e a álgebra linear para renderizar gráficos 3D e simular física real em jogos e softwares médicos.
 
+DADOS BRUTOS: https://info.saude.df.gov.br/painel-infosaude-atencao-primaria-visita-domiciliar-dos-acs/
